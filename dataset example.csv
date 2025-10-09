@@ -1,0 +1,10 @@
+,user_id,pnl_date,user_city,user_country,account_level_1,account_level_2,account_level_3,account_level_4,amount_gbp,user_type,age_group,onboarded_date,user_state,user_plan,is_nap,pnl_month
+0,e4457c08,02/06/2024,Banbridge,United Kingdom,Retail,Card Payments,ATM,Partner: Fire,-0.08165499,PERSONAL,65-74,2018-03-22 09:11:32.417000+00:00,Active,PREMIUM,Napped,2024-06
+1,c4373067,11/07/2024,,Ireland,Retail,Card Payments,Interchange Fees,Partner: Fire,0.065986821,PERSONAL,35-44,2019-10-04 08:16:24.980661+00:00,Active,STANDARD,Napped,2024-07
+2,f9e1ab71,28/05/2024,London,United Kingdom,Retail,Card Payments,Interchange Fees,Partner: Fire,0.0019,PERSONAL,35-44,2020-02-09 16:03:40.706014+00:00,Active,ULTRA,Napped,2024-05
+3,8393cab9,16/06/2024,Zagreb,Croatia,Treasury,Interest Income,Cash at Banks,-,0.006826931,PERSONAL,45-54,2020-05-23 12:02:31.406355+00:00,Active,STANDARD,Napped,2024-06
+4,742f270c,30/05/2024,Bucharest,Romania,Retail,FX,FX Spread,Fiat,0.096642759,PERSONAL,45-54,2018-11-24 14:39:00.723000+00:00,Active,PREMIUM,Napped,2024-05
+5,67548212,16/06/2024,Vilnius,Lithuania,Retail,Card Payments,Interchange Fees,Partner: Ice,0.001973,PERSONAL,25-34,2017-11-18 16:24:29.284000+00:00,Active,METAL,Napped,2024-06
+6,d201caa1,08/07/2024,Newbridge,Ireland,Treasury,Interest Income,Cash at Banks,-,0.004223072,PERSONAL,55-64,2021-02-16 12:24:14.505497+00:00,Active,STANDARD,Napped,2024-07
+7,48dbc6bd,17/06/2024,Warsaw,Poland,Treasury,Interest Income,Cash at Banks,-,0.001121976,PERSONAL,25-34,2021-03-13 13:53:30.229082+00:00,Active,STANDARD,Napped,2024-06
+8,73e33700,22/05/2024,Dąbrowa Górnicza,Poland,Treasury,Interest Income,Cash at Banks,-,0.001603905,PERSONAL,25-34,2019-09-18 15:18:27.652170+00:00,Active,STANDARD,Napped,2024-05
